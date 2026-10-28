@@ -1,0 +1,4 @@
+memory:
+  backend: off
+compaction:
+  keepRecentTokens: 1000

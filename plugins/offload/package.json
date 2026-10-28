@@ -1,0 +1,7 @@
+{
+	"name": "offload",
+	"private": true,
+	"omp": {
+		"extensions": ["./offload.ts"]
+	}
+}

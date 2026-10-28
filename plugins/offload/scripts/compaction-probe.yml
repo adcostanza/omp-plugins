@@ -1,0 +1,3 @@
+compaction:
+  thresholdTokens: 32000
+  keepRecentTokens: 500

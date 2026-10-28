@@ -1,0 +1,15 @@
+{
+  "name": "adcostanza",
+  "owner": { "name": "Adam Costanza" },
+  "metadata": { "description": "omp extensions and skills by Adam Costanza" },
+  "plugins": [
+    {
+      "name": "offload",
+      "description": "/offload: drop earlier conversation from active context, keep the last exchange, search the rest on demand",
+      "source": "./plugins/offload",
+      "category": "productivity",
+      "license": "MIT",
+      "homepage": "https://github.com/adcostanza/omp-plugins/tree/main/plugins/offload"
+    }
+  ]
+}
